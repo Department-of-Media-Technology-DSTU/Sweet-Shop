@@ -1,9 +1,20 @@
-# Sweet Shop
+# Проект «Sweet Shop»
 
-Говорек Дмитрий Константинович МКИС12
+### Студент 👨‍🎓
+- Говорек Дмитрий Константинович
+### Группа 👩‍🦰👨‍🦱🧑
+- МКИС12
+### Наставник 👩🏻‍🏫👨🏻‍🏫
+- Трубчик Ирина Степановна
+### Проект 💻
+- Сайт для заказа тортов с доставкой на дом
 
-Наставник: Трубчик Ирина Степановна
+### Демо
 
-Сайт: Сайт для заказа тортов с доставкой на дом
 
-Демонстрационная ссылка - https://department-of-media-technology-dstu.github.io/Sweet-Shop/
+  <a href="https://department-of-media-technology-dstu.github.io/Sweet-Shop/">Нажмите, чтобы посетить демо сайта
+
+  
+<p align="center">
+  <a href="https://department-of-media-technology-dstu.github.io/Sweet-Shop/">
+    <img src="https://image.thum.io/get/maxAge/12/width/700/https://department-of-media-technology-dstu.github.io/Sweet-Shop/">
